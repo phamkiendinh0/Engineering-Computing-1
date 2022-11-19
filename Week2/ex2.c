@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Get an integer as minutes then calculate its equivalent in hours and remaining minutes. 
+//For example, 768 minutes is 12 hours 48 minutes.
 
 int main() {
 

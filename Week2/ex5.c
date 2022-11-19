@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Get an amount in VND then convert it to USD. Assume that the exchange rate of 1 USD 
+//to VND is 23,150 VND. 
 
 int main() {
     int input;

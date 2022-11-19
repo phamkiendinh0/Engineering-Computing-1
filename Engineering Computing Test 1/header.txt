@@ -1,0 +1,11 @@
+/*
+  RMIT University Vietnam
+  Course: EEET2601 Engineering Computing 1
+  Semester: 2022-3
+  Lab Assessment: 1
+  Author: Dinh Pham
+  ID: S3878568
+  Compiler used: gcc 11.2.0
+  Created  date: 18/11/2022
+  Acknowledgement: None
+*/

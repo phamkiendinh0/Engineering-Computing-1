@@ -26,6 +26,7 @@ int main() {
         int counter = 0;
         int middle = (size + 1) / 2 - 1;
 
+
         for (int i = 0; i < middle; i++) {
             if (str[i] != str[size - i - 1]) {
                 correct = 0;

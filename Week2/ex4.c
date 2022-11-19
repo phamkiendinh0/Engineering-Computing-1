@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Get an integer from the user then calculate the sum of all the digits in that integer. For 
+//example, if the integer is 932, the sum of all the digits is 9+ 3 + 2 = 14. 
 
 int main() {
 
